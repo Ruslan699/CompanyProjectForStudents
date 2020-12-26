@@ -1,0 +1,7 @@
+C:\Users\Orbit-CS\source\repos\AzerfonProject\bin\Debug\AzerfonProject.exe.config
+C:\Users\Orbit-CS\source\repos\AzerfonProject\bin\Debug\AzerfonProject.exe
+C:\Users\Orbit-CS\source\repos\AzerfonProject\bin\Debug\AzerfonProject.pdb
+C:\Users\Orbit-CS\source\repos\AzerfonProject\obj\Debug\AzerfonProject.csprojAssemblyReference.cache
+C:\Users\Orbit-CS\source\repos\AzerfonProject\obj\Debug\AzerfonProject.csproj.CoreCompileInputs.cache
+C:\Users\Orbit-CS\source\repos\AzerfonProject\obj\Debug\AzerfonProject.exe
+C:\Users\Orbit-CS\source\repos\AzerfonProject\obj\Debug\AzerfonProject.pdb
